@@ -9,3 +9,6 @@ openpyxl
 geopandas
 matplotlib
 numpy
+scikit-learn
+
+
